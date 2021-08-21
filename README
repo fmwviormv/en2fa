@@ -1,0 +1,18 @@
+A simple English to Persian translator.
+Currently only supports simple constructs such as:
+
+	What is your name?
+	Where is my book?
+	Which book is mine?
+	What color is your book?
+	Your book is the book.
+	Her book is Ali's book.
+
+
+HOW TO BUILD
+
+You need to install `make', `yacc', and a C compiler.
+Then you can build and run easily:
+
+	$ make
+	$ ./en2fa
